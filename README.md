@@ -2,6 +2,15 @@
 
 https://www.myluck.kr/
 
+등록
+https://www.myluck.kr/admin/theme/dosa/new_dosa_register.php
+
+상세
+https://www.myluck.kr/admin/theme/dosa/new_dosa_detail.php
+
+수정
+https://www.myluck.kr/admin/theme/dosa/new_dosa_modify.php
+
 Admin
 --
 
