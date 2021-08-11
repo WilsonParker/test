@@ -11,6 +11,9 @@ https://www.myluck.kr/admin/theme/dosa/new_dosa_detail.php
 수정
 https://www.myluck.kr/admin/theme/dosa/new_dosa_modify.php
 
+크롤링 데이터 등록
+https://www.myluck.kr/admin/theme/dosa/crawling_register.php
+
 Admin
 --
 
@@ -24,6 +27,7 @@ Admin
 
 - new_dosa_register_server.php
 - new_dosa_modify_server.php
+- crawling_information_register.php
 
 API
 --
@@ -78,3 +82,6 @@ Database
 > 소개 이미지 introduce_image_1, introduce_image_2\
 > 소개 글 introduce_text_1, introduce_text_2, introduce_text_3\
 > 영업 시간 working_time, 홈페이지 주소 homepage_url, 영상 주소 media_url
+
+### test_crawling_information 추가
+### test_crawling_review 추가
